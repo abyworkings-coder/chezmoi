@@ -34,7 +34,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.32.30
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.43.1
 	github.com/bartventer/httpcache v0.13.0
-	github.com/betterleaks/betterleaks v1.6.1
+	github.com/betterleaks/betterleaks v1.7.2
 	github.com/bmatcuk/doublestar/v4 v4.10.0
 	github.com/bradenhilton/mozillainstallhash v1.0.1
 	github.com/charmbracelet/bubbles v0.20.0
@@ -120,6 +120,7 @@ require (
 	github.com/bradenhilton/cityhash v1.0.0 // indirect
 	github.com/caspr-io/yamlpath v0.0.0-20200722075116-502e8d113a9b // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
+	github.com/charlievieth/fastwalk v1.0.14 // indirect
 	github.com/charmbracelet/colorprofile v0.4.3 // indirect
 	github.com/charmbracelet/harmonica v0.2.0 // indirect
 	github.com/charmbracelet/x/ansi v0.11.7 // indirect
