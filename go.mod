@@ -51,22 +51,22 @@ require (
 	github.com/gopasspw/gopass v1.16.1
 	github.com/itchyny/gojq v0.12.19
 	github.com/klauspost/compress v1.19.1
-	github.com/mattn/go-runewidth v0.0.24
+	github.com/mattn/go-runewidth v0.0.27
 	github.com/mitchellh/copystructure v1.2.0
 	github.com/muesli/combinator v0.3.0
 	github.com/muesli/termenv v0.16.0
-	github.com/nwaples/rardecode/v2 v2.2.5
+	github.com/nwaples/rardecode/v2 v2.3.0
 	github.com/pete-woods/go-expect v0.1.4
 	github.com/rogpeppe/go-internal v1.15.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
-	github.com/tailscale/hujson v0.0.0-20260718110524-10d7940d4c87
-	github.com/tobischo/gokeepasslib/v3 v3.6.2
+	github.com/tailscale/hujson v0.0.0-20260727124030-b80ff77dac4f
+	github.com/tobischo/gokeepasslib/v3 v3.7.0
 	github.com/twpayne/go-pinentry/v4 v4.0.1
 	github.com/twpayne/go-shell v0.5.0
 	github.com/twpayne/go-vfs/v5 v5.0.5
 	github.com/twpayne/go-xdg/v6 v6.1.3
-	github.com/ulikunitz/xz v0.5.15
+	github.com/ulikunitz/xz v0.5.16
 	github.com/zalando/go-keyring v0.2.8
 	go.etcd.io/bbolt v1.5.0
 	golang.org/x/crypto v0.54.0
